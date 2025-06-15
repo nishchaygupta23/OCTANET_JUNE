@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Volt Motors - Electric Cars</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <div class="logo">⚡ Volt Motors</div>
+    <nav>
+      <ul>
+        <li><a href="#models">Models</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-text">
+      <h1>Electrify Your Drive</h1>
+      <p>High-performance, zero-emission electric vehicles designed for the future.</p>
+      <a href="#models" class="btn">Explore Models</a>
+    </div>
+  </section>
+
+  <section id="models" class="models">
+    <h2>Our Featured Cars</h2>
+    <div class="card-container">
+      <div class="card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5zXg6uvq0RyAGpwwyA_jtGxahKX47243dmA&s" alt="Model S">
+        <h3>Volt Spark S</h3>
+        <p>Luxury meets speed in this high-range electric sedan.</p>
+      </div>
+      <div class="card">
+        <img src="https://static1.topspeedimages.com/wordpress/wp-content/uploads/2025/01/lucid-air.jpg?q=49&fit=crop&w=145&h=80&dpr=2" alt="Model X">
+        <h3>Volt SUV Pro</h3>
+        <p>Space, power, and all-wheel drive for your every journey.</p>
+      </div>
+      <div class="card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6fbHjIx6S12zekJu6yQqjvFlCvc1q9-Qb9Y9dVoSS_ItZvonytPuKgtZfegtqcB3gLes&usqp=CAU" alt="Roadster">
+        <h3>Volt Roadster</h3>
+        <p>A sporty EV that combines style and cutting-edge performance.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="about" class="about">
+    <h2>Why Volt?</h2>
+    <p>Volt Motors is leading the charge in clean energy innovation. We deliver vehicles that are as smart as they are sustainable — combining performance, safety, and futuristic design.</p>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <p>📧 info@volt-motors.com | 📞 +91-9876543210</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Volt Motors. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
