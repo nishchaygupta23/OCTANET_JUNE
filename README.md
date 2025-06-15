@@ -1,7 +1,9 @@
 ⚡ Volt Motors – Electric Cars Landing Page
+
 A clean, responsive, and elegant landing page built to promote electric vehicles under the fictional brand Volt Motors. Designed using HTML and CSS, this project showcases your frontend skills with attention to layout, responsiveness, and design.
 
 🌐 Project Overview
+
 This landing page includes:
 
 🧭 Sticky navigation bar with smooth scrolling
@@ -18,14 +20,13 @@ This landing page includes:
 
 ✅ Fully responsive design for mobile and desktop
 
-🛠️ Tech Stack
-HTML5
+🛠️ Tech Stack:
 
+HTML5
 CSS3
 
-(Optional JavaScript can be added for interactivity, though this version is static)
-
 🎨 Features
+
 📌 Clean and consistent layout
 
 📸 Featured vehicle cards with manually added images
@@ -41,6 +42,7 @@ CSS3
 🧑‍🦽 Accessible structure with semantic HTML
 
 🚀 Purpose
+
 This project was created as part of a web development internship task to:
 
 Practice frontend fundamentals using HTML/CSS
